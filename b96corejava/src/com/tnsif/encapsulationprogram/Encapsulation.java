@@ -1,4 +1,4 @@
-package com.tnsif.encapsulation;
+package com.tnsif.encapsulationprogram;
 
 public class Encapsulation {
 	//if no access specifier mentioned then it will be default
@@ -32,4 +32,4 @@ public class Encapsulation {
 		public void setAge(int age) {
 			this.age = age;
 		}
-	}
+}
